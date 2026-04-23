@@ -5,7 +5,7 @@ class ShiftAi < Formula
   head "https://github.com/alohaninja/shift.git", branch: "main"
 
   url "https://github.com/alohaninja/shift/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "be6c6cd5f1ab813a7e6b3617831c9ca97939931256f4b8529a54f143ba5d3370"
+  sha256 "03b4b4477dbc9b15396403719c76853edc91d6979acd17ac124353ae2c178355"
   version "0.1.3"
 
   depends_on "rust" => :build
