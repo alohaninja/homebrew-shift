@@ -4,9 +4,9 @@ class ShiftAi < Formula
   license "Apache-2.0"
   head "https://github.com/alohaninja/shift.git", branch: "main"
 
-  url "https://github.com/alohaninja/shift/archive/refs/tags/v0.8.0.tar.gz"
-  sha256 "2ddf5c8d7ea8e6702749b5fb3b91e140d3923416e47844946e81b2b78da33418"
-  version "0.8.0"
+  url "https://github.com/alohaninja/shift/archive/refs/tags/v0.9.1.tar.gz"
+  sha256 "dccbdac1940e2416fe533969d63705f9febd1b13baef35ecbd1fcac796dab916"
+  version "0.9.1"
 
   depends_on "rust" => :build
 
